@@ -16,7 +16,7 @@ circle {
     animation-name: mat-progress-spinner-stroke-rotate-100; 
     stroke-dasharray: 282.743px; 
     stroke-width: 10%;
-    stroke: #3f51b5;
+    stroke: #6200ee;
 }
 @keyframes mat-progress-spinner-stroke-rotate-100 {
     0% {
